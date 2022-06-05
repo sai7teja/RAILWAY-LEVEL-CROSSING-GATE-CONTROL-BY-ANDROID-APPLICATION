@@ -1,0 +1,9 @@
+post .h    delay 
+lcd.h    delay 
+serial.h   serial communication bluetooth 
+sbit single bit 
+x 
+k delay 
+txs transmit sreially 
+
+hc05 app required 

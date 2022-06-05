@@ -1,0 +1,10 @@
+TRANSFORMER 12V,
+ 7805 IC,
+ AT89S52 IC,
+ 16X2 LCD HD44780, port 2
+BLUETOOTH HC-05, pin 10 rxd(3.0), pin 11 txd (3.1)
+ L293D,
+ DC MOTOR,12v,0.60amp,100rpm 
+ BUZZER 
+
+
